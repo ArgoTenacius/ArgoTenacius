@@ -10,7 +10,6 @@
     2. React JS <br>
     3. Node JS 
 </p>
-<br>
 <h1>My languages and tools:</h1>
 <div style="display: flex;">
     <img src="https://cdn-icons-png.flaticon.com/64/732/732212.png" alt="html">
@@ -20,18 +19,3 @@
     <img src="https://img.icons8.com/color/64/git.png" alt="git">
     <img src="https://img.icons8.com/fluency/64/node-js.png" alt="node js">
 </div>
-
-<!--
-**ArgoTenacius/ArgoTenacius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
