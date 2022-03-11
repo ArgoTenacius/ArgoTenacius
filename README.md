@@ -17,5 +17,7 @@
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968292.png" alt="javascript">
     <img src="https://cdn-icons-png.flaticon.com/64/1126/1126012.png" alt="react">
     <img src="https://img.icons8.com/color/64/git.png" alt="git">
+    <!--
     <img src="https://img.icons8.com/fluency/64/node-js.png" alt="node js">
+    -->
 </div>
