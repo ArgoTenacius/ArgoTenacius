@@ -4,6 +4,10 @@
     if you desire you can call me <i>Argo</i> too, 
     i'm a self-taught programmer doing the project odin!
     <br>
+    <h1> Check out my best works! </h1>
+    <a href="https://argotenacius.github.io/bug-tracker/">Bug Tracker</a> <br>
+    <a href="https://argotenacius.github.io/Tacobell-clone/">Taco Bell Clone</a> <br>
+    <a href="https://argotenacius.github.io/wheres-waldo/">Where's Waldo</a>
     <h3>🌱 I’m currently learning: </h3>
     1. Doing The project odin <br>
     2. React JS <br>
