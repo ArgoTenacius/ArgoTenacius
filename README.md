@@ -2,8 +2,7 @@
 <h1>Hi there 👋</h1>
 <p>I'm <i>Ramon</i>, 
     if you desire you can call me <i>Argo</i> too, 
-    i'm a self-taught programmer who loves to learn and 
-    do things that was once not possible before.
+    i'm a self-taught programmer doing the project odin!
     <br>
     <h3>🌱 I’m currently learning: </h3>
     1. Doing The project odin <br>
