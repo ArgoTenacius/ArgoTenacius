@@ -4,6 +4,8 @@
     if you desire you can call me <i>Argo</i> too, 
     i'm a self-taught programmer doing the project odin!
     <br>
+    <br>
+    <a href="https://argotenacius.github.io/portifolio/">My portifolio 👈</a>
     <h1> Check out my best works! </h1>
     <a href="https://argotenacius.github.io/bug-tracker/">Bug Tracker</a> <br>
     <a href="https://argotenacius.github.io/Tacobell-clone/">Taco Bell Clone</a> <br>
