@@ -7,7 +7,7 @@
     <br>
     <a href="https://argotenacius.github.io/portifolio/">My portifolio 👈</a>
     <h1> Check out my best works! </h1>
-    <a href="https://argotenacius.github.io/chat-app/">Chat App</a>
+    <a href="https://argotenacius.github.io/chat-app/">Chat App</a> <br>
     <a href="https://argotenacius.github.io/bug-tracker/">Bug Tracker</a> <br>
     <a href="https://argotenacius.github.io/Tacobell-clone/">Taco Bell Clone</a> <br>
     <h3>🌱 I’m currently learning: </h3>
